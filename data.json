@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstName": "Usuario 1",
+    "lastName": "Usuario 1",
+    "email": "email1@email.com",
+    "password": "$2a$10$6bCOf8RtBsPsAajh4WaUR.mRC2o86DZYebFtLnBwf3hTde3YhVwOG",
+    "docNumber": "10000000",
+    "docType": 0,
+    "access": 2,
+    "root": 1,
+    "verified": 1,
+    "state": 1,
+    "creationDate": "01-18-2021, 1:28:25 AM"
+  },
+  {
+    "id": 2,
+    "firstName": "Usuario 2",
+    "lastName": "Usuario 2",
+    "email": "email2@email.com",
+    "password": "$2a$10$6bCOf8RtBsPsAajh4WaUR.mRC2o86DZYebFtLnBwf3hTde3YhVwOG",
+    "docNumber": "10000001",
+    "docType": 0,
+    "access": 2,
+    "root": 1,
+    "verified": 1,
+    "state": 1,
+    "creationDate": "01-18-2021, 1:28:25 AM"
+  }
+]
